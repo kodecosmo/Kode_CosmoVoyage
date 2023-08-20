@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/kodecosmo/kode-cosmovoyage-api
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kavirubc/cosmovoyage.git
