@@ -1,6 +1,6 @@
 # CosmoVoyage - Team Kode
 
-<img src="./backend/public/favicon.png" alt="CosmoVoyage Logo" width="100%" > 
+<img src="https://github.com/kodecosmo/kode-cosmovoyage-api/blob/master/public/favicon.png" alt="CosmoVoyage Logo" width="100%" > 
 
 This is the the CosmoVoyage web app. This is made with compatible for both web and mobile apps. Please follow the installation guides given for both the frontend and the backend for a successfull installation.
 
